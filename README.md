@@ -1,3 +1,7 @@
+App link for Google Play Store -> [Click me](https://play.google.com/store/apps/details?id=com.EBDev.pokescandex)
+
+
+
 # Privacy Policy
 
 ## Last Updated: May 20, 2025
